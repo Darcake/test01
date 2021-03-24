@@ -104,7 +104,7 @@ src_dir = "D:/datates"
 #crop_img(dst_dir, src_dir, "yangwangxingkong3", 0, 157, 192, 640)
 
 
-#img_to_video(src_dir, dst_dir,"jixieguan")
+img_to_video(src_dir, dst_dir,"jixieguan")
 img_to_video(src_dir, dst_dir, "jixieguan2")
 img_to_video(src_dir, dst_dir, "jixieguan3")
 img_to_video(src_dir, dst_dir, "pengyuan")
