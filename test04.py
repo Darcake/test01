@@ -106,9 +106,9 @@ src_dir = "D:/datates"
 
 #img_to_video(src_dir, dst_dir,"jixieguan")
 #img_to_video(src_dir, dst_dir, "jixieguan2")
-#img_to_video(src_dir, dst_dir, "jixieguan3")
-#img_to_video(src_dir, dst_dir, "pengyuan")
-#img_to_video(src_dir, dst_dir, "pengyuan2")
+img_to_video(src_dir, dst_dir, "jixieguan3")
+img_to_video(src_dir, dst_dir, "pengyuan")
+img_to_video(src_dir, dst_dir, "pengyuan2")
 img_to_video(src_dir, dst_dir, "yangwangxingkong")
 img_to_video(src_dir, dst_dir, "yangwangxingkong2")
 img_to_video(src_dir, dst_dir, "yangwangxingkong3")
